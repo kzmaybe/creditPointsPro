@@ -27,7 +27,7 @@ CreditPointsPro was created to empower travelers by educating them on the best t
 
 To get started with PointsHack, follow these steps:
 
-1. Visit the [CreditPointsPro Website](https://creditpointpros.github.io/CreditPointsPro-Website/)
+1. Visit the [CreditPointsPro Website](https://kzmaybe.github.io/creditPointsPro/)
 2. Sign up for a free account.
 3. Start exploring our tutorials and tracking your credit card points.
 
